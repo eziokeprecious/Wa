@@ -1,0 +1,240 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 100%;
+}
+
+/*
+MEDIA QUERIES
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
+*/
+
+/*
+.navbar-nav {
+    margin-left: -23vw !important;
+    transform: translate(-50vw,0vw);
+}
+
+
+    .navbar-nav {
+        margin-left: -23vw !important;
+        transform: translate(1vw,0vw);
+    }
+    */
+
+.waheblogo {
+    width: 15.7vw;
+    height: 2.8vw;
+    top: 0.7vw;
+    left: 4.2vw;
+    margin-left: -13vw;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: 
+    #558852;
+}
+
+.navbr {
+    margin-right: -13.4vw !important;
+}
+
+.bg-light {
+    background-color: #FFFFFF !important;
+}
+
+.rectangle1 {
+    height: auto;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+}
+
+.head-bg {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.ellipse1 {
+    width:  10.5vw;
+    height:21vw;
+    float: right;
+    position: top;
+    margin-top: 7vw;
+    z-index: 1;
+    position: relative;
+}
+
+.navbar-collapse {
+    flex-grow:0;
+}
+
+.navbar-toggler-icon {
+    color: #0B315E;
+    ;
+}
+
+.headertxt1-1 {
+    font-size: 96px;
+    padding-top: 37.8vw;
+    line-height:80px;
+    padding-left:10.4vw;
+    transform: translate(0vw,-20vw);
+}
+
+.headertxt2-2 {
+    font-size: 18px;
+    padding-top: -141.8vw;
+    line-height: 23.44px;
+    padding-left:10.4vw;
+    transform: translate(0vw,-10vw);
+}
+
+.rectangle3 {
+    padding-top: -141.8vw;
+    padding-left:10.4vw;
+    transform: translate(0vw,-11vw);
+}
+
+.welsec {
+    padding-top: 8vw;
+}
+
+.welimg1 {
+width: 365px;
+height: 381px;
+}
+
+.welp1 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20.83px;
+    color: #5F5F6A;
+    font-size: 16px;
+    padding-top: 2.5vw;
+}
+
+.ellipse3 {
+    transform: translate(-1.2vw);
+}
+
+.welh1 {
+    font-size: 36px;
+    color: #558852;
+    font-weight: 700;
+    line-height: 46.87px;
+}
+
+.welp3 {
+    color: #717E97;
+    font-weight: 400;
+    font-family: 'Nunito';
+    font-size: 16px;
+    line-height: 28px;
+    font-style: normal;
+
+}
+
+.welp2 {
+    color: #0B315E;
+    font-weight: 400;
+    font-family: 'DM Sans';
+    font-size: 24px;
+    line-height: 31.25px;
+    font-style: normal;
+
+}
+
+.about-sec {
+    background: #E5E5E5;
+}
+
+.abtsec1 {
+    position: relative;
+font-family: 'DM Sans'; 
+font-weight:700;
+font-style:normal;
+font-size:36px;
+line-height:46.87px;  
+z-index: 1;
+color: #558852;
+}
+
+.ellipse4 {
+    transform: translate(-0.65vw,-0.8vw);
+    z-index: -1;
+    position: absolute;
+}
+
+.abtp1 {
+    font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+text-align: right;
+color: #717E97;
+}
+
+.abtbtn {
+width: 215.34px;
+height: 55px;
+left: 488px;
+top: 2216px;
+background: #FFFFFF;
+border: 1px solid #558852;
+box-sizing: border-box;
+border-radius: 5px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+
+/* #558852 */
+
+color: #558852;
+}
+
+.abtsec2 {
+position: relative;
+z-index: 10;/*
+width: 388px;
+height: 385px;
+left: 787px;
+top: 1877px;
+border-radius: 100px 0px;
+background-image: url(../img/Rectangle30.png);*/
+}
+
+.abtsec3 {
+    position: absolute;
+    transform: translate(-12.3vw,7.28vw);
+    z-index: 0;
+}
+
+.msgbrds {
+    
+}
